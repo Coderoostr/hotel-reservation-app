@@ -1,0 +1,34 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Hotel Pura Vida",
+        "description": "Experimenta la auténtica vida costarricense en nuestro acogedor hotel.",
+        "image": "/img/hotel1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Resort Bella Vista",
+        "description": "Un oasis tropical en el corazón de Costa Rica.",
+        "image": "/img/hotel2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Playa Dorada Lodge",
+        "description": "Disfruta de la costa y el sol en nuestro lodge de lujo.",
+        "image": "/img/hotel3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Montaña Serena Inn",
+        "description": "Escápate a la tranquilidad de las montañas de Costa Rica.",
+        "image": "/img/hotel4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Hotel Paradise Beach",
+        "description": "Tu hogar lejos de casa en la playa paradisíaca.",
+        "image": "/img/hotel5.jpg"
+      }
+    ]
+  }
